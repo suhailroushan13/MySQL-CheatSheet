@@ -111,6 +111,11 @@ use cheatsheet;
 show databases;
 ```
 
+#### Drop Database
+```sql
+drop database cheatsheet;
+```
+
 #### Create Table
 ```sql
 create table employee
@@ -186,10 +191,7 @@ truncate employee;
 drop table department;
 ```
 
-#### Drop Database
-```sql
-drop database cheatsheet;
-```
+
 ## Data Manipulation Language (DML)
 
 #### Insertion (Complete)
